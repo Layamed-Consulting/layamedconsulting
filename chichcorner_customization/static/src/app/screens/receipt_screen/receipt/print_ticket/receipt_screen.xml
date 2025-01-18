@@ -4,7 +4,7 @@
         <xpath expr="//button[contains(@class, 'print')]" position="after">
             <button class="button print btn btn-lg btn-outline-secondary w-100 py-3 mt-2" t-on-click="printGiftReceipt"
             style="background-color: #D76C82; color: white;">
-                <i class="fa fa-gift ms-2" t-ref="order-print-receipt-button-gift"></i> Print Gift Receipt
+                <i class="fa fa-gift ms-2" t-ref="order-print-receipt-button-gift"></i> Imprimer carte cadeau
             </button>
         </xpath>
     </t>

@@ -8,4 +8,5 @@ from . import transaction_check
 from . import transaction_session
 from . import stock_quant
 from . import purchaseorder
+from . import report_inherit
 
